@@ -9,7 +9,6 @@ class User(
         val lastName : String="",
 
         val birthDay: DateTime? = DateTime.parse("2000/02/23"),
-        cityId:Int?,
+        cityId:Int?
 
-val age:Int
 )
