@@ -9,7 +9,7 @@ class User(
         val lastName : String="",
 
         val birthDay: DateTime? ,
-        cityId:Int?,
-val age:Int
+        cityId:Int?
+
 
 )
